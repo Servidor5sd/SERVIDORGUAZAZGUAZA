@@ -89,6 +89,7 @@
       "biomeswevegone:weeping_witch_forest": "2025-01-27 17:47:36 +0000",
       "biomeswevegone:ebony_woods": "2025-01-27 00:41:07 +0000",
       "biomeswevegone:dead_sea": "2025-01-27 18:41:08 +0000",
+      "biomeswevegone:allium_shrubland": "2025-01-28 20:29:42 +0000",
       "biomeswevegone:baobab_savanna": "2025-01-28 00:16:06 +0000"
     },
     "done": false
@@ -1362,6 +1363,7 @@
       "bread": "2025-01-27 02:34:25 +0000",
       "golden_apple": "2025-01-27 01:59:52 +0000",
       "rotten_flesh": "2025-01-27 00:09:47 +0000",
+      "cooked_chicken": "2025-01-28 20:36:05 +0000",
       "carrot": "2025-01-28 01:25:43 +0000"
     },
     "done": false
@@ -1586,6 +1588,7 @@
       "minecraft:desert": "2025-01-27 23:36:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-27 16:53:13 +0000",
       "minecraft:deep_dark": "2025-01-27 00:49:25 +0000",
+      "minecraft:meadow": "2025-01-28 20:27:57 +0000",
       "minecraft:savanna": "2025-01-27 19:03:12 +0000",
       "minecraft:plains": "2025-01-27 00:12:23 +0000"
     },
@@ -4902,7 +4905,8 @@
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
       "zebra": "2025-01-27 13:04:49 +0000",
-      "orangutan": "2025-01-27 23:23:27 +0000"
+      "orangutan": "2025-01-27 23:23:27 +0000",
+      "marmot": "2025-01-28 20:29:07 +0000"
     },
     "done": false
   },
@@ -6488,6 +6492,24 @@
     },
     "done": true
   },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2025-01-28 20:02:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-28 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 20:06:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 20:07:00 +0000"
@@ -6509,12 +6531,6 @@
   "spartanweaponry:recipes/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2025-01-28 20:07:00 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/root": {
-    "criteria": {
-      "c1": "2025-01-28 20:02:49 +0000"
     },
     "done": true
   },
@@ -6668,12 +6684,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-01-28 20:06:36 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/stone_katana": {
     "criteria": {
       "has_cobblestone": "2025-01-28 20:07:00 +0000"
@@ -6755,12 +6765,6 @@
   "spartanweaponry:recipes/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 20:07:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-01-28 20:06:55 +0000"
     },
     "done": true
   },
@@ -6869,6 +6873,48 @@
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-01-28 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-01-28 20:09:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 20:39:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-28 20:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-28 20:22:48 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-01-28 20:39:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-28 20:22:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-01-28 20:20:29 +0000"
     },
     "done": true
   },
