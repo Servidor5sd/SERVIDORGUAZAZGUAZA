@@ -6882,9 +6882,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "spartanweaponry:recipes/small_arrow_quiver": {
     "criteria": {
-      "coded_trigger": "2025-01-28 20:39:49 +0000"
+      "has_arrow": "2025-01-28 20:20:29 +0000"
     },
     "done": true
   },
@@ -6900,21 +6900,21 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-01-28 20:39:48 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-28 20:22:48 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/small_arrow_quiver": {
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
     "criteria": {
-      "has_arrow": "2025-01-28 20:20:29 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-01-28 20:39:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 20:39:49 +0000"
     },
     "done": true
   },

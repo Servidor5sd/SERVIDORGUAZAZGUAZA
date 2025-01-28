@@ -9447,9 +9447,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-28 22:06:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-28 22:06:03 +0000"
     },
     "done": true
   },
@@ -9462,6 +9474,12 @@
   "moretool:get_soulof_sword": {
     "criteria": {
       "get_soulof_sword_0": "2025-01-28 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-28 22:06:03 +0000"
     },
     "done": true
   },
@@ -9498,6 +9516,12 @@
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-28 22:06:03 +0000"
     },
     "done": true
   },
@@ -9582,6 +9606,12 @@
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-01-28 22:01:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-28 22:06:03 +0000"
     },
     "done": true
   },
