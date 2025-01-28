@@ -660,3 +660,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [28Jan2025 21:59:27.561] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroo[/127.81.187.143:49003] logged in with entity id 13307 at (-912.9893541732563, 155.0, 1510.6457872478315)
 [28Jan2025 21:59:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo joined the game
 [28Jan2025 21:59:27.596] [Server thread/INFO] [Jade/]: Syncing config to Zitroo (140917c5-1b47-31ef-bc0f-8b22892b6012)
+[28Jan2025 22:02:00.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo has made the advancement [Soul of Sword]

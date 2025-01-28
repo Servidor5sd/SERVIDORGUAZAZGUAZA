@@ -9249,12 +9249,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/netherite_bolt": {
-    "criteria": {
-      "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-01-28 21:46:56 +0000"
@@ -9339,12 +9333,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-01-28 21:46:56 +0000"
@@ -9354,12 +9342,6 @@
   "spartanweaponry:recipes/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-01-28 21:46:56 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
     },
     "done": true
   },
@@ -9387,6 +9369,30 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-01-28 21:46:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:heavy_crossbow": {
     "criteria": {
       "has_heavy_crossbow": "2025-01-28 21:52:12 +0000"
@@ -9399,9 +9405,183 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+  "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
-      "has_diamond": "2025-01-28 21:46:56 +0000"
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "moretool:get_soulof_sword": {
+    "criteria": {
+      "get_soulof_sword_0": "2025-01-28 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-28 22:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-28 22:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-28 22:01:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-01-28 22:01:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-28 22:01:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-01-28 22:01:17 +0000"
     },
     "done": true
   },
