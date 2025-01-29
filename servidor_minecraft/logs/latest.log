@@ -636,3 +636,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jan2025 23:29:20.703] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [29Jan2025 23:29:20.704] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/./config/infernalmobs.cfg
 [29Jan2025 23:29:20.705] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[29Jan2025 23:41:42.761] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Jan2025 23:41:42.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucasdepapel[/127.150.154.107:47551] logged in with entity id 632 at (-2372.5143342969764, -17.0, 608.3515016502403)
+[29Jan2025 23:41:43.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel joined the game
+[29Jan2025 23:41:43.109] [Server thread/INFO] [Jade/]: Syncing config to lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df)
+[29Jan2025 23:42:57.403] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2600, y=-35, z=374}
+[29Jan2025 23:42:57.404] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2602, y=-35, z=374}
+[29Jan2025 23:44:47.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Hot Stuff]
+[29Jan2025 23:48:10.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has made the advancement [Ice Bucket Challenge]
