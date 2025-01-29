@@ -2649,6 +2649,7 @@
       "minecraft:desert": "2025-01-29 18:17:45 +0000",
       "minecraft:windswept_forest": "2025-01-27 16:44:39 +0000",
       "minecraft:ocean": "2025-01-27 13:33:01 +0000",
+      "minecraft:jungle": "2025-01-29 22:29:43 +0000",
       "minecraft:windswept_savanna": "2025-01-27 13:40:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-28 00:37:59 +0000",
       "minecraft:frozen_peaks": "2025-01-27 14:12:45 +0000",
@@ -3254,6 +3255,7 @@
       "minecraft:slime": "2025-01-27 00:38:08 +0000",
       "minecraft:zombified_piglin": "2025-01-27 19:56:50 +0000",
       "minecraft:wither_skeleton": "2025-01-27 19:31:32 +0000",
+      "minecraft:shulker": "2025-01-29 22:28:05 +0000",
       "minecraft:cave_spider": "2025-01-27 15:21:27 +0000",
       "minecraft:piglin": "2025-01-27 01:54:39 +0000",
       "minecraft:enderman": "2025-01-27 00:21:00 +0000",
@@ -9908,6 +9910,30 @@
   "iceandfire:recipes/combat/amphithere_arrow": {
     "criteria": {
       "has_item": "2025-01-29 18:18:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-01-29 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-01-29 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-01-29 22:28:45 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-01-29 22:33:03 +0000"
     },
     "done": true
   },
