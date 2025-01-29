@@ -801,3 +801,63 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [29Jan2025 01:02:37.682] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
 [29Jan2025 01:02:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci burned to death
 [29Jan2025 01:02:41.073] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[29Jan2025 01:06:23.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:36889] logged in with entity id 12507 at (-818.5694779860579, 64.0, 1495.934019021822)
+[29Jan2025 01:06:24.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[29Jan2025 01:06:24.055] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[29Jan2025 01:07:05.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> mierda no saque pio el de primera persona
+[29Jan2025 01:07:12.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> sacaste
+[29Jan2025 01:07:18.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ah yo no me saque
+[29Jan2025 01:07:19.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> XD
+[29Jan2025 01:07:34.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> creo que no saqué alv
+[29Jan2025 01:07:38.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> si sacaste
+[29Jan2025 01:07:42.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> solo que tú lo tienes
+[29Jan2025 01:07:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> pura caca
+[29Jan2025 01:08:06.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by Cyclops
+[29Jan2025 01:08:06.642] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Cattemci with unique ID travelersbackpack.standard_29.01.2025-01.08.06.dat
+[29Jan2025 01:08:06.657] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[29Jan2025 01:08:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> loco lo de los chunks si sirve no joda
+[29Jan2025 01:08:16.928] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-774, y=-14, z=1793}
+[29Jan2025 01:08:19.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -5.721386718842837,2.2468000194787976,-8.13093541415401
+[29Jan2025 01:08:19.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3782ms or 75 ticks behind
+[29Jan2025 01:08:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> al inicio va exageradamente lageado
+[29Jan2025 01:08:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> no wtf
+[29Jan2025 01:08:32.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> si
+[29Jan2025 01:08:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> si va
+[29Jan2025 01:08:36.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> a vos nms
+[29Jan2025 01:08:37.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> pero cuando le das tiempo
+[29Jan2025 01:08:39.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> va todo bien
+[29Jan2025 01:09:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> la base de juan esta buena
+[29Jan2025 01:09:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> XD
+[29Jan2025 01:09:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> esta bien ubicada la waystone
+[29Jan2025 01:09:46.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> muy riko
+[29Jan2025 01:09:54.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci was slain by Cyclops
+[29Jan2025 01:09:54.142] [Server thread/INFO] [tombstone/]: The player Cattemci has successfully been saved
+[29Jan2025 01:10:04.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> el me pregunta que si yo no tengo casa o pq ando todo el rato en su base
+[29Jan2025 01:10:13.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> pero su base es como una plaza para mi
+[29Jan2025 01:10:23.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> XDDDDD
+[29Jan2025 01:10:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> aveces le agarro cosas del cofre
+[29Jan2025 01:10:38.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> solo que el no sabe
+[29Jan2025 01:10:40.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo también
+[29Jan2025 01:10:41.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> puelka bellaka
+[29Jan2025 01:10:49.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> el pendejo tiene muy mal ubicado su cofre
+[29Jan2025 01:10:51.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> muy expuesto
+[29Jan2025 01:10:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> aveces uso el hechizo de invisibilidad
+[29Jan2025 01:10:59.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> vengo y abro enfrente suyo y no se da cuenta
+[29Jan2025 01:11:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> puelka bellaka
+[29Jan2025 01:11:33.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> tiene armadura completa de diamante en el cofre loco
+[29Jan2025 01:11:36.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> encantada
+[29Jan2025 01:11:36.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> él no sabe pero sus dragones nunca desaparecen
+[29Jan2025 01:11:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> y espada con encantamientos raros
+[29Jan2025 01:11:51.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> están en un cuadro
+[29Jan2025 01:11:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> bueno
+[29Jan2025 01:11:57.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> sus cráneos
+[29Jan2025 01:12:36.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> yo tengo las coords de la base de jorge
+[29Jan2025 01:12:42.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> podríamos visitarlo
+[29Jan2025 01:12:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> sin su presencia
+[29Jan2025 01:12:55.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> voy a poner la waystone ahi
+[29Jan2025 01:12:57.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> si es que tiene
+[29Jan2025 01:13:25.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci lost connection: Timed out
+[29Jan2025 01:13:25.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci left the game
+[29Jan2025 01:13:25.469] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jan2025 01:13:41.767] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7331d21c[id=<null>,name=Cattemci,properties={},legacy=false] (/127.139.182.176:42329) lost connection: Disconnected
+[29Jan2025 01:16:09.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja moved too quickly! -4.9862477252954704,3.5,-17.464798300440634

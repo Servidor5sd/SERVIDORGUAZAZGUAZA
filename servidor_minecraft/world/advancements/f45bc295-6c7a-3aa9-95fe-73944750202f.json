@@ -6918,5 +6918,11 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-01-29 01:14:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
