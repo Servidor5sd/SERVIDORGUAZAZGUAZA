@@ -6924,5 +6924,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_dragon": {
+    "criteria": {
+      "requirement": "2025-01-29 01:24:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
