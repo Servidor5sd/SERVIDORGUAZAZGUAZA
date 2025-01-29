@@ -8162,6 +8162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 22:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-29 22:33:03 +0000"
@@ -8198,6 +8204,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-29 22:40:19 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/command": {
+    "criteria": {
+      "c1": "2025-01-29 22:52:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
       "has_crimson_planks": "2025-01-29 22:33:03 +0000"
@@ -8222,6 +8240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 22:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-01-29 22:33:03 +0000"
@@ -8234,6 +8258,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2025-01-29 22:40:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/crimson_cabinet": {
     "criteria": {
       "has_crimson_trapdoor": "2025-01-29 22:33:39 +0000"
@@ -8243,6 +8273,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-01-29 22:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-29 22:48:48 +0000"
     },
     "done": true
   },
@@ -8276,6 +8312,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-29 22:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-29 22:33:03 +0000"
@@ -8287,6 +8329,12 @@
       "has_carrot": "2025-01-29 22:27:22 +0000"
     },
     "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "corrupted_enderman": "2025-01-29 22:44:05 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
     "criteria": {
@@ -8303,6 +8351,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-29 22:33:03 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/enderkill": {
+    "criteria": {
+      "c1": "2025-01-29 22:44:05 +0000"
     },
     "done": true
   },

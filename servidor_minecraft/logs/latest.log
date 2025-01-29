@@ -1,22 +1,22 @@
-[29Jan2025 22:21:06.030] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Jan2025 22:21:06.034] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[29Jan2025 22:21:07.649] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Jan2025 22:21:07.698] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Jan2025 22:21:08.154] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 22:21:08.171] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 22:21:08.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 22:21:08.175] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Jan2025 22:21:08.464] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[29Jan2025 22:21:08.466] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[29Jan2025 22:21:11.223] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Jan2025 22:21:11.277] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
-[29Jan2025 22:21:11.282] [main/ERROR] [mixin/]: Mixin config mixins.recrafted_creatures.json does not specify "minVersion" property
-[29Jan2025 22:21:11.286] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
-[29Jan2025 22:21:11.518] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[29Jan2025 22:21:11.521] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Jan2025 22:21:11.571] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jan2025 22:21:11.797] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Jan2025 22:21:11.842] [main/INFO] [Puzzles Lib/]: Loading 88 mods:
+[29Jan2025 23:27:52.573] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Jan2025 23:27:52.576] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Jan2025 23:27:59.422] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Jan2025 23:27:59.544] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Jan2025 23:28:00.110] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 23:28:00.111] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 23:28:00.113] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 23:28:00.114] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Jan2025 23:28:00.516] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Jan2025 23:28:00.518] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[29Jan2025 23:28:04.357] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Jan2025 23:28:04.415] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
+[29Jan2025 23:28:04.419] [main/ERROR] [mixin/]: Mixin config mixins.recrafted_creatures.json does not specify "minVersion" property
+[29Jan2025 23:28:04.423] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
+[29Jan2025 23:28:05.013] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[29Jan2025 23:28:05.016] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Jan2025 23:28:05.157] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jan2025 23:28:05.585] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Jan2025 23:28:05.625] [main/INFO] [Puzzles Lib/]: Loading 88 mods:
 	- advancementplaques 1.6.7
 	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
@@ -106,174 +106,174 @@
 	- waystones 14.1.6
 	- woodenbucket 1.20.1-2.1.0.0
 	- xpbook 2.2.1
-[29Jan2025 22:21:13.984] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[29Jan2025 22:21:16.888] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::railways$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
-[29Jan2025 22:21:19.370] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[29Jan2025 22:21:19.370] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[29Jan2025 22:21:19.382] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bcb000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[29Jan2025 22:21:20.659] [modloading-worker-0/INFO] [hammered/]: Initializing...
-[29Jan2025 22:21:20.713] [modloading-worker-0/INFO] [hammered/]: Registered Items.
-[29Jan2025 22:21:20.716] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
-[29Jan2025 22:21:20.717] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
-[29Jan2025 22:21:20.718] [modloading-worker-0/INFO] [hammered/]: Initialized
-[29Jan2025 22:21:20.811] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[29Jan2025 22:21:20.814] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[29Jan2025 22:21:21.132] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
-[29Jan2025 22:21:21.252] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[29Jan2025 22:21:21.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Jan2025 22:21:21.325] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[29Jan2025 22:21:21.326] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[29Jan2025 22:21:21.327] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[29Jan2025 22:21:21.329] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[29Jan2025 22:21:21.337] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[29Jan2025 22:21:21.340] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[29Jan2025 22:21:21.349] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[29Jan2025 22:21:21.395] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Jan2025 22:21:21.395] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Jan2025 22:21:22.274] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[29Jan2025 22:21:22.324] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[29Jan2025 22:21:22.421] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[29Jan2025 22:21:22.510] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[29Jan2025 22:21:22.583] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[29Jan2025 22:21:22.585] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[29Jan2025 22:21:22.585] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[29Jan2025 22:21:22.587] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[29Jan2025 22:21:22.587] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[29Jan2025 22:21:22.588] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[29Jan2025 22:21:22.592] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[29Jan2025 22:21:22.595] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[29Jan2025 22:21:22.612] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[29Jan2025 22:21:22.613] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[29Jan2025 22:21:22.614] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[29Jan2025 22:21:22.617] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[29Jan2025 22:21:22.627] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[29Jan2025 22:21:22.729] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[29Jan2025 22:21:22.731] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[29Jan2025 22:21:22.741] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[29Jan2025 22:21:22.750] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[29Jan2025 22:21:22.763] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[29Jan2025 22:21:22.773] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[29Jan2025 22:21:22.774] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[29Jan2025 22:21:22.774] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[29Jan2025 22:21:22.787] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[29Jan2025 22:21:22.798] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[29Jan2025 22:21:22.802] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[29Jan2025 22:21:22.809] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[29Jan2025 22:21:22.810] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[29Jan2025 22:21:23.336] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[29Jan2025 22:21:23.383] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
-[29Jan2025 22:21:23.605] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[29Jan2025 22:21:23.608] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[29Jan2025 22:21:23.613] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[29Jan2025 22:21:23.822] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[29Jan2025 22:21:23.833] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[29Jan2025 22:21:23.834] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[29Jan2025 22:21:23.854] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[29Jan2025 22:21:23.874] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[29Jan2025 22:21:23.876] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[29Jan2025 22:21:23.880] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[29Jan2025 22:21:23.881] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[29Jan2025 22:21:23.885] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[29Jan2025 22:21:23.887] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[29Jan2025 22:21:23.888] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[29Jan2025 22:21:23.889] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[29Jan2025 22:21:23.891] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[29Jan2025 22:21:24.157] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:alcohol_sync_request
-[29Jan2025 22:21:24.158] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:drink_alcohol
-[29Jan2025 22:21:24.184] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[29Jan2025 22:21:24.260] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Jan2025 22:21:24.445] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[29Jan2025 22:21:30.298] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[29Jan2025 22:21:30.298] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[29Jan2025 22:21:30.359] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[29Jan2025 22:21:30.494] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[29Jan2025 22:21:30.496] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[29Jan2025 22:21:30.500] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[29Jan2025 22:21:30.500] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
-[29Jan2025 22:21:30.908] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[29Jan2025 22:21:30.919] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[29Jan2025 22:21:30.922] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[29Jan2025 22:21:30.923] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[29Jan2025 22:21:31.207] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[29Jan2025 22:21:31.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[29Jan2025 22:21:31.343] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[29Jan2025 22:21:31.372] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[29Jan2025 22:21:31.478] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[29Jan2025 22:21:31.479] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[29Jan2025 22:21:31.544] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[29Jan2025 22:21:31.668] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Jan2025 22:21:31.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[29Jan2025 22:21:31.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[29Jan2025 22:21:31.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[29Jan2025 22:21:31.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Jan2025 22:21:31.709] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[29Jan2025 22:21:31.710] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[29Jan2025 22:21:31.710] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[29Jan2025 22:21:31.711] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[29Jan2025 22:21:31.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Jan2025 22:21:31.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[29Jan2025 22:21:31.851] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[29Jan2025 22:21:31.852] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[29Jan2025 22:21:31.853] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[29Jan2025 22:21:31.853] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[29Jan2025 22:21:31.854] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[29Jan2025 22:21:31.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[29Jan2025 22:21:31.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Jan2025 22:21:31.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[29Jan2025 22:21:31.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Jan2025 22:21:31.982] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[29Jan2025 22:21:32.011] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[29Jan2025 22:21:32.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[29Jan2025 22:21:32.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
-[29Jan2025 22:21:32.113] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[29Jan2025 22:21:32.129] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
-[29Jan2025 22:21:32.130] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[29Jan2025 22:21:32.155] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[29Jan2025 22:21:32.162] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[29Jan2025 22:21:32.165] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
-[29Jan2025 22:21:32.166] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[29Jan2025 22:21:32.168] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[29Jan2025 22:21:32.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.9c Target: 5.6.9c+mod
-[29Jan2025 22:21:32.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[29Jan2025 22:21:32.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[29Jan2025 22:21:32.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[29Jan2025 22:21:32.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.7 Target: null
-[29Jan2025 22:21:32.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[29Jan2025 22:21:32.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[29Jan2025 22:21:32.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[29Jan2025 22:21:32.798] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[29Jan2025 22:21:32.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[29Jan2025 22:21:32.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
-[29Jan2025 22:21:32.814] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
-[29Jan2025 22:21:32.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.9 Target: null
-[29Jan2025 22:21:32.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[29Jan2025 22:21:32.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[29Jan2025 22:21:32.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[29Jan2025 22:21:33.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[29Jan2025 22:21:33.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[29Jan2025 22:21:33.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[29Jan2025 22:21:33.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[29Jan2025 22:21:33.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[29Jan2025 22:21:33.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[29Jan2025 22:21:34.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[29Jan2025 22:21:34.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[29Jan2025 22:21:34.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.7.0-alpha.2 Target: null
-[29Jan2025 22:21:34.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
-[29Jan2025 22:21:34.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
-[29Jan2025 22:21:34.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[29Jan2025 22:21:34.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[29Jan2025 22:21:34.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Jan2025 22:21:34.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[29Jan2025 22:21:34.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[29Jan2025 22:21:34.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[29Jan2025 22:21:37.001] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Jan2025 22:21:40.868] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23263!/assets/.mcassetsroot' uses unexpected schema
-[29Jan2025 22:21:40.869] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23263!/data/.mcassetsroot' uses unexpected schema
-[29Jan2025 22:21:42.985] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[29Jan2025 22:21:43.177] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[29Jan2025 22:21:43.181] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
-[29Jan2025 22:21:43.239] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag pizzadelight:sliced_ingredients as it is missing following references: pizzadelight:pepper_slice (from pizzadelight-1.20.1-1.0.0.jar)
-[29Jan2025 22:21:44.353] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[29Jan2025 23:28:08.517] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[29Jan2025 23:28:13.167] [main/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ServerPlayerMixin->@Redirect::securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ServerPlayerMixin->@Redirect::railways$securitycraft$tick(Lnet/minecraft/server/level/ServerPlayer;DDDFF)V with priority 1200
+[29Jan2025 23:28:17.402] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[29Jan2025 23:28:17.403] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[29Jan2025 23:28:17.414] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$bcb000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[29Jan2025 23:28:19.155] [modloading-worker-0/INFO] [hammered/]: Initializing...
+[29Jan2025 23:28:19.207] [modloading-worker-0/INFO] [hammered/]: Registered Items.
+[29Jan2025 23:28:19.210] [modloading-worker-0/INFO] [hammered/]: Registered Enchantments.
+[29Jan2025 23:28:19.213] [modloading-worker-0/INFO] [hammered/]: Registered Villager Trades.
+[29Jan2025 23:28:19.214] [modloading-worker-0/INFO] [hammered/]: Initialized
+[29Jan2025 23:28:19.284] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[29Jan2025 23:28:19.297] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[29Jan2025 23:28:19.708] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[29Jan2025 23:28:19.910] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Jan2025 23:28:19.918] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[29Jan2025 23:28:19.926] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[29Jan2025 23:28:19.928] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[29Jan2025 23:28:19.930] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[29Jan2025 23:28:19.936] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[29Jan2025 23:28:19.940] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[29Jan2025 23:28:19.941] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[29Jan2025 23:28:19.951] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[29Jan2025 23:28:20.114] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[29Jan2025 23:28:20.114] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[29Jan2025 23:28:21.238] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[29Jan2025 23:28:21.724] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[29Jan2025 23:28:21.799] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[29Jan2025 23:28:21.911] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[29Jan2025 23:28:21.991] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[29Jan2025 23:28:21.995] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[29Jan2025 23:28:21.995] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[29Jan2025 23:28:22.013] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[29Jan2025 23:28:22.013] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[29Jan2025 23:28:22.016] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[29Jan2025 23:28:22.018] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[29Jan2025 23:28:22.021] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[29Jan2025 23:28:22.038] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[29Jan2025 23:28:22.050] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[29Jan2025 23:28:22.051] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[29Jan2025 23:28:22.053] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[29Jan2025 23:28:22.097] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[29Jan2025 23:28:22.240] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[29Jan2025 23:28:22.241] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[29Jan2025 23:28:22.259] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[29Jan2025 23:28:22.263] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[29Jan2025 23:28:22.283] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[29Jan2025 23:28:22.292] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[29Jan2025 23:28:22.293] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[29Jan2025 23:28:22.294] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[29Jan2025 23:28:22.311] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[29Jan2025 23:28:22.358] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[29Jan2025 23:28:22.368] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[29Jan2025 23:28:22.370] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[29Jan2025 23:28:22.373] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[29Jan2025 23:28:23.231] [modloading-worker-0/INFO] [Chunk Pregenerator/]: Loading Plugin: [name=JourneyMap]
+[29Jan2025 23:28:23.239] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[29Jan2025 23:28:23.383] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[29Jan2025 23:28:23.383] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[29Jan2025 23:28:23.392] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[29Jan2025 23:28:23.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[29Jan2025 23:28:23.656] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[29Jan2025 23:28:23.834] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[29Jan2025 23:28:23.865] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[29Jan2025 23:28:23.876] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[29Jan2025 23:28:23.882] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[29Jan2025 23:28:23.883] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[29Jan2025 23:28:23.885] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[29Jan2025 23:28:23.886] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[29Jan2025 23:28:23.910] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[29Jan2025 23:28:23.926] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[29Jan2025 23:28:23.927] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[29Jan2025 23:28:23.927] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[29Jan2025 23:28:24.167] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:alcohol_sync_request
+[29Jan2025 23:28:24.168] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id brewery:drink_alcohol
+[29Jan2025 23:28:24.198] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[29Jan2025 23:28:24.251] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[29Jan2025 23:28:24.570] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[29Jan2025 23:28:31.826] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[29Jan2025 23:28:31.827] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[29Jan2025 23:28:31.902] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[29Jan2025 23:28:32.072] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[29Jan2025 23:28:32.075] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[29Jan2025 23:28:32.080] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[29Jan2025 23:28:32.080] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / brewery:beer_elemental] was not realized!
+[29Jan2025 23:28:32.536] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[29Jan2025 23:28:32.549] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[29Jan2025 23:28:32.552] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[29Jan2025 23:28:32.554] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[29Jan2025 23:28:32.885] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[29Jan2025 23:28:32.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[29Jan2025 23:28:33.036] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[29Jan2025 23:28:33.043] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[29Jan2025 23:28:33.101] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[29Jan2025 23:28:33.107] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[29Jan2025 23:28:33.196] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[29Jan2025 23:28:33.300] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Jan2025 23:28:33.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[29Jan2025 23:28:33.330] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[29Jan2025 23:28:33.338] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[29Jan2025 23:28:33.339] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[29Jan2025 23:28:33.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Jan2025 23:28:33.340] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[29Jan2025 23:28:33.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Jan2025 23:28:33.341] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[29Jan2025 23:28:33.459] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[29Jan2025 23:28:33.459] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[29Jan2025 23:28:33.460] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[29Jan2025 23:28:33.461] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[29Jan2025 23:28:33.461] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[29Jan2025 23:28:33.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[29Jan2025 23:28:33.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[29Jan2025 23:28:33.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[29Jan2025 23:28:33.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[29Jan2025 23:28:33.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[29Jan2025 23:28:33.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Jan2025 23:28:33.615] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[29Jan2025 23:28:33.664] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[29Jan2025 23:28:33.747] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[29Jan2025 23:28:33.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
+[29Jan2025 23:28:33.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Starting version check at https://api.modrinth.com/updates/tA7mQv7R/forge_updates.json
+[29Jan2025 23:28:33.758] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.cookingforblockheads.compat.ForgeJadeCookingForBlockheadsPlugin
+[29Jan2025 23:28:33.759] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[29Jan2025 23:28:33.776] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[29Jan2025 23:28:33.780] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[29Jan2025 23:28:33.785] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.camera.integration.waila.PluginCamera
+[29Jan2025 23:28:33.786] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[29Jan2025 23:28:33.789] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[29Jan2025 23:28:33.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ultris_mr] Found status: OUTDATED Current: 5.6.9c Target: 5.6.9c+mod
+[29Jan2025 23:28:33.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[29Jan2025 23:28:34.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[29Jan2025 23:28:34.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[29Jan2025 23:28:34.474] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.7 Target: null
+[29Jan2025 23:28:34.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[29Jan2025 23:28:34.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[29Jan2025 23:28:34.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[29Jan2025 23:28:34.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Jan2025 23:28:34.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[29Jan2025 23:28:34.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: UP_TO_DATE Current: 5.3.0 Target: null
+[29Jan2025 23:28:34.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Starting version check at https://mc-update-check.anthonyhilyard.com/521590
+[29Jan2025 23:28:34.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [highlighter] Found status: UP_TO_DATE Current: 1.1.9 Target: null
+[29Jan2025 23:28:34.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[29Jan2025 23:28:34.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[29Jan2025 23:28:34.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[29Jan2025 23:28:34.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[29Jan2025 23:28:34.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[29Jan2025 23:28:35.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[29Jan2025 23:28:35.218] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[29Jan2025 23:28:35.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[29Jan2025 23:28:35.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Jan2025 23:28:35.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[29Jan2025 23:28:35.362] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[29Jan2025 23:28:35.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: UP_TO_DATE Current: 3.7.0-alpha.2 Target: null
+[29Jan2025 23:28:35.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[29Jan2025 23:28:35.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[29Jan2025 23:28:35.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[29Jan2025 23:28:35.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[29Jan2025 23:28:35.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[29Jan2025 23:28:35.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[29Jan2025 23:28:35.770] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[29Jan2025 23:28:36.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[29Jan2025 23:28:38.914] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Jan2025 23:28:43.374] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23263!/assets/.mcassetsroot' uses unexpected schema
+[29Jan2025 23:28:43.374] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23263!/data/.mcassetsroot' uses unexpected schema
+[29Jan2025 23:28:45.746] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[29Jan2025 23:28:45.933] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[29Jan2025 23:28:45.952] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[29Jan2025 23:28:46.012] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag pizzadelight:sliced_ingredients as it is missing following references: pizzadelight:pepper_slice (from pizzadelight-1.20.1-1.0.0.jar)
+[29Jan2025 23:28:47.193] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -325,10 +325,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[29Jan2025 22:21:44.751] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[29Jan2025 22:21:45.194] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[29Jan2025 22:21:46.405] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[29Jan2025 22:21:47.324] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[29Jan2025 23:28:47.649] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[29Jan2025 23:28:48.259] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[29Jan2025 23:28:49.868] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[29Jan2025 23:28:51.033] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -366,9 +366,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jan2025 22:21:47.335] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[29Jan2025 22:21:47.335] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[29Jan2025 22:21:47.339] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe moretool:demon_skull_swordr
+[29Jan2025 23:28:51.052] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[29Jan2025 23:28:51.052] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[29Jan2025 23:28:51.057] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe moretool:demon_skull_swordr
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wither_skeleton_wall_skull'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -406,20 +406,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wither_skeleton_wal
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jan2025 22:21:47.341] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[29Jan2025 22:21:47.342] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[29Jan2025 22:21:47.344] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[29Jan2025 22:21:47.345] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[29Jan2025 22:21:47.370] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
-[29Jan2025 22:21:47.379] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[29Jan2025 22:21:47.379] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[29Jan2025 22:21:47.400] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[29Jan2025 22:21:47.400] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[29Jan2025 22:21:47.434] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[29Jan2025 22:21:47.434] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[29Jan2025 22:21:47.442] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[29Jan2025 22:21:47.442] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[29Jan2025 22:21:47.447] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[29Jan2025 23:28:51.060] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[29Jan2025 23:28:51.060] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[29Jan2025 23:28:51.066] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[29Jan2025 23:28:51.066] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[29Jan2025 23:28:51.111] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
+[29Jan2025 23:28:51.119] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[29Jan2025 23:28:51.119] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[29Jan2025 23:28:51.134] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[29Jan2025 23:28:51.134] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[29Jan2025 23:28:51.148] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[29Jan2025 23:28:51.148] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[29Jan2025 23:28:51.155] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[29Jan2025 23:28:51.156] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[29Jan2025 23:28:51.160] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -457,7 +457,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jan2025 22:21:47.462] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[29Jan2025 23:28:51.172] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23268!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23268!/:?]
@@ -490,29 +490,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jan2025 22:21:47.475] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[29Jan2025 22:21:47.476] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[29Jan2025 22:21:47.493] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[29Jan2025 22:21:47.493] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[29Jan2025 22:21:47.497] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[29Jan2025 22:21:47.498] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[29Jan2025 22:21:47.499] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[29Jan2025 22:21:47.499] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[29Jan2025 22:21:47.503] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[29Jan2025 22:21:47.504] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[29Jan2025 22:21:47.511] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[29Jan2025 22:21:47.512] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[29Jan2025 22:21:47.523] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[29Jan2025 22:21:47.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[29Jan2025 22:21:47.524] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[29Jan2025 22:21:47.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[29Jan2025 22:21:47.530] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[29Jan2025 22:21:47.530] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[29Jan2025 22:21:47.543] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[29Jan2025 22:21:47.543] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[29Jan2025 22:21:47.554] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[29Jan2025 22:21:47.554] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[29Jan2025 22:21:47.559] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[29Jan2025 23:28:51.192] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[29Jan2025 23:28:51.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[29Jan2025 23:28:51.210] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[29Jan2025 23:28:51.210] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[29Jan2025 23:28:51.215] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[29Jan2025 23:28:51.216] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[29Jan2025 23:28:51.217] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[29Jan2025 23:28:51.217] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[29Jan2025 23:28:51.222] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[29Jan2025 23:28:51.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[29Jan2025 23:28:51.231] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[29Jan2025 23:28:51.231] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[29Jan2025 23:28:51.248] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[29Jan2025 23:28:51.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[29Jan2025 23:28:51.248] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[29Jan2025 23:28:51.248] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[29Jan2025 23:28:51.258] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[29Jan2025 23:28:51.258] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[29Jan2025 23:28:51.278] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[29Jan2025 23:28:51.278] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[29Jan2025 23:28:51.303] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[29Jan2025 23:28:51.304] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[29Jan2025 23:28:51.314] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -541,174 +541,98 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[29Jan2025 22:21:47.572] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[29Jan2025 22:21:47.572] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[29Jan2025 22:21:47.579] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[29Jan2025 22:21:47.579] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[29Jan2025 22:21:47.592] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 41 recipes
-[29Jan2025 22:21:47.667] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[29Jan2025 22:21:47.705] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[29Jan2025 22:21:47.767] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[29Jan2025 22:21:47.773] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[29Jan2025 22:21:47.816] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7045 advancements
-[29Jan2025 22:21:47.841] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[29Jan2025 22:21:47.847] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[29Jan2025 22:21:47.870] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
-[29Jan2025 22:21:47.870] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[29Jan2025 22:21:47.871] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
-[29Jan2025 22:21:47.872] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
-[29Jan2025 22:21:47.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
-[29Jan2025 22:21:47.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
-[29Jan2025 22:21:47.914] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot, 
+[29Jan2025 23:28:51.341] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[29Jan2025 23:28:51.341] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[29Jan2025 23:28:51.351] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[29Jan2025 23:28:51.351] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[29Jan2025 23:28:51.372] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 41 recipes
+[29Jan2025 23:28:51.467] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[29Jan2025 23:28:51.509] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[29Jan2025 23:28:51.594] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[29Jan2025 23:28:51.607] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[29Jan2025 23:28:51.657] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 7045 advancements
+[29Jan2025 23:28:51.690] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[29Jan2025 23:28:51.696] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[29Jan2025 23:28:51.726] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[29Jan2025 23:28:51.727] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[29Jan2025 23:28:51.727] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[29Jan2025 23:28:51.727] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[29Jan2025 23:28:51.727] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[29Jan2025 23:28:51.727] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[29Jan2025 23:28:51.728] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[29Jan2025 23:28:51.728] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[29Jan2025 23:28:51.728] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[29Jan2025 23:28:51.729] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[29Jan2025 23:28:51.729] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[29Jan2025 23:28:51.729] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[29Jan2025 23:28:51.730] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[29Jan2025 23:28:51.731] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[29Jan2025 23:28:51.731] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[29Jan2025 23:28:51.731] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[29Jan2025 23:28:51.732] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[29Jan2025 23:28:51.733] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[29Jan2025 23:28:51.733] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[29Jan2025 23:28:51.734] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[29Jan2025 23:28:51.734] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[29Jan2025 23:28:51.734] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[29Jan2025 23:28:51.734] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[29Jan2025 23:28:51.734] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[29Jan2025 23:28:51.735] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[29Jan2025 23:28:51.735] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[29Jan2025 23:28:51.735] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[29Jan2025 23:28:51.735] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[29Jan2025 23:28:51.735] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[29Jan2025 23:28:51.735] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[29Jan2025 23:28:51.790] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot, 
 	netherexp:sounds/polished_blackstone
-[29Jan2025 22:21:50.630] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.592158ms
-[29Jan2025 22:21:51.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Jan2025 22:21:51.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Jan2025 22:21:51.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Jan2025 22:21:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Jan2025 22:21:51.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Jan2025 22:21:51.436] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Jan2025 22:21:51.512] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Jan2025 22:21:51.512] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Jan2025 22:21:51.513] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Jan2025 22:21:51.513] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Jan2025 22:21:51.530] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[29Jan2025 22:21:51.533] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[29Jan2025 22:21:51.541] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Jan2025 22:21:51.542] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Jan2025 22:21:51.545] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Jan2025 22:21:51.546] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[29Jan2025 22:21:51.750] [Server thread/INFO] [Framework/]: Loading server configs...
-[29Jan2025 22:21:51.759] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[29Jan2025 22:21:51.759] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[29Jan2025 22:21:52.236] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[29Jan2025 22:21:52.237] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[29Jan2025 22:21:52.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Jan2025 22:21:52.350] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
-[29Jan2025 22:22:07.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Jan2025 22:22:07.376] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:07.762] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:08.256] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:08.762] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:09.253] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:09.861] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:10.276] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Jan2025 22:22:10.751] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[29Jan2025 22:22:15.186] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.187] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.188] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.189] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.189] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.190] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.252] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[29Jan2025 22:22:15.550] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8299 ms
-[29Jan2025 22:22:15.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.026s)! For help, type "help"
-[29Jan2025 22:22:15.672] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Jan2025 22:22:15.748] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[29Jan2025 22:22:15.749] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[29Jan2025 22:22:15.769] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[29Jan2025 22:22:15.770] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[29Jan2025 22:22:15.771] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[29Jan2025 22:22:15.772] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[29Jan2025 22:22:15.772] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/./config/infernalmobs.cfg
-[29Jan2025 22:22:15.776] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
-[29Jan2025 22:24:11.782] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[29Jan2025 22:24:11.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/127.182.128.67:35903] logged in with entity id 634 at (2737.0307172209746, 120.0, -744.3160029061728)
-[29Jan2025 22:24:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
-[29Jan2025 22:24:12.153] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
-[29Jan2025 22:24:14.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
-[29Jan2025 22:25:43.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroo[/127.81.187.143:51257] logged in with entity id 1265 at (-2415.1500384164056, 91.0, 916.8073022450334)
-[29Jan2025 22:25:43.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo joined the game
-[29Jan2025 22:25:43.418] [Server thread/INFO] [Jade/]: Syncing config to Zitroo (140917c5-1b47-31ef-bc0f-8b22892b6012)
-[29Jan2025 22:25:52.774] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AOSBIK[/127.139.21.216:35933] logged in with entity id 1666 at (-1797.6863962997338, 69.0, 1069.6958103189431)
-[29Jan2025 22:25:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK joined the game
-[29Jan2025 22:25:52.853] [Server thread/INFO] [Jade/]: Syncing config to AOSBIK (81694b00-8d6f-3d43-9e8d-a4ce009c2300)
-[29Jan2025 22:25:55.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
-[29Jan2025 22:26:57.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/692, l='ServerLevel[world]', x=2800.30, y=95.73, z=-750.70] died, message: 'Weaponsmith was slain by Zombie'
-[29Jan2025 22:27:29.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[29Jan2025 22:27:41.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Zebra['Zebra'/3211, l='ServerLevel[world]', x=-2208.23, y=73.00, z=1181.64]
-[29Jan2025 22:28:00.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cattemci[/127.139.182.176:50179] logged in with entity id 3397 at (45.556139298181336, 84.7531999805212, 1001.4158618869964)
-[29Jan2025 22:28:00.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cattemci joined the game
-[29Jan2025 22:28:00.330] [Server thread/INFO] [Jade/]: Syncing config to Cattemci (b24b122c-232e-3dc2-bf48-11421a53c3a2)
-[29Jan2025 22:28:05.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Kali the Old'/2498, l='ServerLevel[world]', x=-2085.50, y=69.00, z=1028.50] died: Kali the Old was slain by AOSBIK using [Folla culos]
-[29Jan2025 22:28:05.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
-[29Jan2025 22:28:05.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep moved too quickly! 2.566294723277224,-2.244859093495492,-9.758882474588404
-[29Jan2025 22:29:00.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> -2400 91 914
-[29Jan2025 22:30:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK was doomed to fall by Lightning Dragon
-[29Jan2025 22:30:20.037] [Server thread/INFO] [tombstone/]: The player AOSBIK has successfully been saved
-[29Jan2025 22:30:20.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
-[29Jan2025 22:30:35.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Tools of the Trade]
-[29Jan2025 22:30:44.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> duerman
-[29Jan2025 22:30:45.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> quién me vende 3 diamantes
-[29Jan2025 22:30:52.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> yo
-[29Jan2025 22:30:56.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> qué quieres
-[29Jan2025 22:31:01.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> ns
-[29Jan2025 22:31:01.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> XD
-[29Jan2025 22:31:03.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> te regalo
-[29Jan2025 22:31:12.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> en donde voy
-[29Jan2025 22:31:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> las cords q pase
-[29Jan2025 22:31:23.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
-[29Jan2025 22:31:31.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> -2400 91 914
-[29Jan2025 22:31:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> dónde es eso?
-[29Jan2025 22:31:37.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> o si podes ir en estas
-[29Jan2025 22:31:40.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> eso es mi cas
-[29Jan2025 22:31:41.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> XD
-[29Jan2025 22:32:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> qué lugar queda más cerca de tu casa
-[29Jan2025 22:32:06.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> en donde hayan waystones
-[29Jan2025 22:32:09.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> tu aldea?
-[29Jan2025 22:32:10.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> espera mato un dragon primero
-[29Jan2025 22:32:11.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> xdd
-[29Jan2025 22:32:14.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> si, en mi aldea
-[29Jan2025 22:32:17.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> gracias
-[29Jan2025 22:33:03.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Jennifer Dumped Me]
-[29Jan2025 22:34:06.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[29Jan2025 22:34:08.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroo moved too quickly! 0.5460046711868927,2.024424088213692,-10.043673077142444
-[29Jan2025 22:35:48.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AOSBIK lost connection: Disconnected
-[29Jan2025 22:35:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK left the game
-[29Jan2025 22:35:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> elias dormi
-[29Jan2025 22:35:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> ,dig gust
-[29Jan2025 22:36:00.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> o sali, porfa
-[29Jan2025 22:36:05.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep was burnt to a crisp whilst fighting Pyromancer
-[29Jan2025 22:36:05.845] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mtaep with unique ID travelersbackpack.standard_29.01.2025-22.36.05.dat
-[29Jan2025 22:36:06.339] [Server thread/INFO] [tombstone/]: The player Mtaep has successfully been saved
-[29Jan2025 22:36:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> duerme, porfa
-[29Jan2025 22:36:15.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> ya estaba durmiendo desde antes
-[29Jan2025 22:36:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cattemci> el que no duerme es mateo
-[29Jan2025 22:36:21.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zitroo> ,dormi mateo
-[29Jan2025 22:37:06.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AOSBIK[/127.139.21.216:58467] logged in with entity id 11902 at (-2406.286045406186, 91.1212968405392, 915.9844226900308)
-[29Jan2025 22:37:06.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK joined the game
-[29Jan2025 22:37:06.205] [Server thread/INFO] [Jade/]: Syncing config to AOSBIK (81694b00-8d6f-3d43-9e8d-a4ce009c2300)
-[29Jan2025 22:37:10.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4135ms or 82 ticks behind
-[29Jan2025 22:37:10.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zitroo moved too quickly! 8.428576347639591,-1.1212968405392019,5.80498764482752
-[29Jan2025 22:37:41.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci moved wrongly!
-[29Jan2025 22:39:10.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[29Jan2025 22:39:27.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[29Jan2025 22:39:46.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
-[29Jan2025 22:40:04.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
-[29Jan2025 22:40:20.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Corrupted]
+[29Jan2025 23:28:54.830] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.017438ms
+[29Jan2025 23:28:55.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Jan2025 23:28:55.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Jan2025 23:28:55.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Jan2025 23:28:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Jan2025 23:28:55.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Jan2025 23:28:55.937] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Jan2025 23:28:56.035] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Jan2025 23:28:56.036] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Jan2025 23:28:56.036] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Jan2025 23:28:56.038] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Jan2025 23:28:56.072] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[29Jan2025 23:28:56.074] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[29Jan2025 23:28:56.077] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[29Jan2025 23:28:56.081] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[29Jan2025 23:28:56.082] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Jan2025 23:28:56.084] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Jan2025 23:28:56.093] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Jan2025 23:28:56.094] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Jan2025 23:28:56.095] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Jan2025 23:28:56.100] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[29Jan2025 23:28:56.101] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[29Jan2025 23:28:56.102] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[29Jan2025 23:28:56.364] [Server thread/INFO] [Framework/]: Loading server configs...
+[29Jan2025 23:28:56.377] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[29Jan2025 23:28:56.378] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[29Jan2025 23:28:56.890] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[29Jan2025 23:28:56.891] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[29Jan2025 23:28:56.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Jan2025 23:28:57.019] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping securitycraft.mixins.json:camera.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1100, already redirected by railways-common.mixins.json:conductor_possession.ChunkMapMixin->@Redirect::securitycraft$getCameraSectionPos(Lnet/minecraft/server/level/ServerPlayer;)Lnet/minecraft/core/SectionPos; with priority 1200
+[29Jan2025 23:29:16.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Jan2025 23:29:16.397] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 23:29:16.877] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Jan2025 23:29:18.587] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jan2025 23:29:18.616] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jan2025 23:29:18.625] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jan2025 23:29:18.889] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jan2025 23:29:19.384] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jan2025 23:29:19.881] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[29Jan2025 23:29:20.378] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[29Jan2025 23:29:20.481] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4105 ms
+[29Jan2025 23:29:20.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.421s)! For help, type "help"
+[29Jan2025 23:29:20.591] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jan2025 23:29:20.681] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[29Jan2025 23:29:20.682] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[29Jan2025 23:29:20.701] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[29Jan2025 23:29:20.702] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[29Jan2025 23:29:20.703] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[29Jan2025 23:29:20.703] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[29Jan2025 23:29:20.704] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/SERVIDORGUAZAZGUAZA/servidor_minecraft/./config/infernalmobs.cfg
+[29Jan2025 23:29:20.705] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
