@@ -13246,3 +13246,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jan2025 17:13:43.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AOSBIK moved too quickly! 7.699868811785109,-0.1647732818260721,6.601892537734557
 [29Jan2025 17:13:43.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8783ms or 175 ticks behind
 [29Jan2025 17:15:30.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cattemci moved wrongly!
+[29Jan2025 17:26:09.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Jan2025 17:26:46.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[29Jan2025 17:26:49.324] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=349, y=8, z=642}
