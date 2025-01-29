@@ -2754,6 +2754,7 @@
       "zebra": "2025-01-28 00:40:24 +0000",
       "orangutan": "2025-01-27 01:15:21 +0000",
       "owl": "2025-01-27 17:24:19 +0000",
+      "giraffe": "2025-01-29 16:35:36 +0000",
       "beaver": "2025-01-27 00:12:39 +0000"
     },
     "done": false
@@ -2786,6 +2787,7 @@
       "pumpkin_pie": "2025-01-27 02:43:48 +0000",
       "bread": "2025-01-27 00:22:54 +0000",
       "golden_apple": "2025-01-27 02:11:33 +0000",
+      "golden_carrot": "2025-01-29 16:43:27 +0000",
       "cooked_chicken": "2025-01-27 01:25:42 +0000",
       "carrot": "2025-01-27 13:06:58 +0000"
     },
@@ -9587,17 +9589,312 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:32:52 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-01-29 16:36:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-01-29 16:29:25 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2025-01-29 16:42:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-01-29 16:36:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:32:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-01-29 16:36:29 +0000"
+    },
+    "done": true
+  },
+  "moretool:get_soulof_sword": {
+    "criteria": {
+      "get_soulof_sword_0": "2025-01-29 16:32:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_bookshelf": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:32:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-01-29 16:32:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-01-29 16:42:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-01-29 16:41:04 +0000",
       "minecraft:cow": "2025-01-29 16:29:25 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-01-29 16:40:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-01-29 16:42:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-29 16:36:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-29 16:43:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-01-29 16:36:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

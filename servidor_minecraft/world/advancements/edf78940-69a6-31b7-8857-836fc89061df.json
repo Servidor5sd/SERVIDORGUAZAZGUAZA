@@ -7081,6 +7081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-29 16:35:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-01-29 16:31:27 +0000"
@@ -7096,6 +7102,12 @@
   "ironchest:recipes/decorations/chests/trapped_crystal_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-29 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-29 16:35:19 +0000"
     },
     "done": true
   },
