@@ -8096,51 +8096,15 @@
     },
     "done": true
   },
-  "moretool:get_soulof_sword": {
-    "criteria": {
-      "get_soulof_sword_0": "2025-01-28 20:21:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/iron_arrow": {
-    "criteria": {
-      "has_bow": "2025-01-28 20:37:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_arrow": {
-    "criteria": {
-      "has_bow": "2025-01-28 20:37:36 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-28 20:40:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-01-28 20:36:02 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/misc/pink_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_pink_dye]": "2025-01-28 20:20:36 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/netherite_arrow": {
+  "moretool:get_soulof_sword": {
     "criteria": {
-      "has_bow": "2025-01-28 20:37:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_arrow": {
-    "criteria": {
-      "has_bow": "2025-01-28 20:37:36 +0000"
+      "get_soulof_sword_0": "2025-01-28 20:21:02 +0000"
     },
     "done": true
   },
@@ -8156,9 +8120,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-28 20:36:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-28 20:37:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-28 20:37:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-28 20:37:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-28 20:37:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_bow": "2025-01-28 20:37:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-28 20:40:08 +0000"
     },
     "done": true
   },
