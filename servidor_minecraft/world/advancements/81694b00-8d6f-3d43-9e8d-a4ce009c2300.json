@@ -80,6 +80,7 @@
       "biomeswevegone:zelkova_forest": "2025-01-27 16:20:10 +0000",
       "biomeswevegone:forgotten_forest": "2025-01-27 15:18:01 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-01-27 22:26:08 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-01-29 16:30:28 +0000",
       "biomeswevegone:lush_stacks": "2025-01-27 00:38:42 +0000",
       "biomeswevegone:coconino_meadow": "2025-01-27 16:34:56 +0000",
       "biomeswevegone:maple_taiga": "2025-01-27 16:20:12 +0000",
@@ -9585,6 +9586,18 @@
       "has_dark_oak_trapdoor": "2025-01-28 21:04:59 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-29 16:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-01-29 16:29:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
