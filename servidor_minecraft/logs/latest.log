@@ -707,3 +707,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 00:54:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ola
 [30Jan2025 00:54:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> dame el ceuro
 [30Jan2025 00:55:03.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> garcia
+[30Jan2025 00:55:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ya agarraste el libro
+[30Jan2025 00:55:09.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> si uwu
+[30Jan2025 00:55:13.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ahora dame comida que no e grati
+[30Jan2025 00:55:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> teno 30 pane
+[30Jan2025 00:55:31.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> sirve
+[30Jan2025 00:55:43.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> toma
+[30Jan2025 00:55:46.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> de regalo
+[30Jan2025 00:55:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> mu bien
+[30Jan2025 00:56:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ahota
+[30Jan2025 00:56:10.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 00:56:11.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> como se hacve
+[30Jan2025 00:56:21.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> para poner las paginas en el libro
+[30Jan2025 00:56:24.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Magery]
+[30Jan2025 00:56:36.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> dablo
+[30Jan2025 00:56:45.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[30Jan2025 00:56:45.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[30Jan2025 00:57:13.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:33435] logged in with entity id 60958 at (2725.6211395133673, 116.9375, -771.5937862410489)
+[30Jan2025 00:57:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 00:57:13.901] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 00:57:43.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[30Jan2025 00:57:43.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[30Jan2025 00:58:19.313] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24ffe949[id=<null>,name=DrPingaFloja,properties={},legacy=false] (/127.94.204.212:56595) lost connection: Disconnected
+[30Jan2025 00:58:27.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:50411] logged in with entity id 61621 at (2725.6211395133673, 116.9375, -771.5937862410489)
+[30Jan2025 00:58:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 00:58:27.595] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 00:58:57.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[30Jan2025 00:58:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[30Jan2025 00:59:23.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:55173] logged in with entity id 61986 at (2725.6211395133673, 116.9375, -771.5937862410489)
+[30Jan2025 00:59:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 00:59:24.047] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 00:59:54.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[30Jan2025 00:59:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[30Jan2025 01:00:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Reaping What You Sow]
+[30Jan2025 01:01:53.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK hit the ground too hard
+[30Jan2025 01:01:53.617] [Server thread/INFO] [tombstone/]: The player AOSBIK has successfully been saved
+[30Jan2025 01:10:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [What a Deal!]
+[30Jan2025 01:10:48.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucasdepapel[/127.150.154.107:35683] logged in with entity id 72377 at (-38.75534831974053, 120.0, 11.353852198125535)
+[30Jan2025 01:10:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel joined the game
+[30Jan2025 01:10:48.201] [Server thread/INFO] [Jade/]: Syncing config to lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df)
+[30Jan2025 01:12:08.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mtaep lost connection: Disconnected
+[30Jan2025 01:12:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep left the game
+[30Jan2025 01:12:33.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucasdepapel lost connection: Timed out
+[30Jan2025 01:12:33.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel left the game
+[30Jan2025 01:12:52.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucasdepapel[/127.150.154.107:46659] logged in with entity id 74933 at (-119.08853880786934, 102.00133597911214, 84.89041132754272)
+[30Jan2025 01:12:52.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel joined the game
+[30Jan2025 01:12:52.436] [Server thread/INFO] [Jade/]: Syncing config to lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df)
+[30Jan2025 01:13:22.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucasdepapel lost connection: Timed out
+[30Jan2025 01:13:22.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel left the game
+[30Jan2025 01:13:34.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucasdepapel[/127.150.154.107:53563] logged in with entity id 75944 at (-119.08853880786934, 102.00133597911214, 84.89041132754272)
+[30Jan2025 01:13:34.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel joined the game
+[30Jan2025 01:13:34.636] [Server thread/INFO] [Jade/]: Syncing config to lucasdepapel (edf78940-69a6-31b7-8857-836fc89061df)
+[30Jan2025 01:14:33.069] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-109, y=38, z=494}
+[30Jan2025 01:14:33.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6161ms or 123 ticks behind
+[30Jan2025 01:14:40.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> zzzz
