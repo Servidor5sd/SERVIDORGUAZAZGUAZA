@@ -74,7 +74,11 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:redwood_thicket": "2025-01-27 00:06:03 +0000",
+      "biomeswevegone:atacama_outback": "2025-01-30 02:02:00 +0000",
+      "biomeswevegone:windswept_desert": "2025-01-30 01:57:14 +0000",
       "biomeswevegone:crag_gardens": "2025-01-27 01:17:06 +0000",
+      "biomeswevegone:mojave_desert": "2025-01-30 01:57:10 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-01-30 02:02:33 +0000",
       "biomeswevegone:temperate_grove": "2025-01-27 19:35:31 +0000",
       "biomeswevegone:forgotten_forest": "2025-01-27 19:46:47 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-01-27 00:10:44 +0000",
@@ -1209,12 +1213,14 @@
       "minecraft:pillager": "2025-01-29 18:16:10 +0000",
       "minecraft:skeleton": "2025-01-27 17:55:30 +0000",
       "minecraft:ghast": "2025-01-27 01:46:46 +0000",
+      "minecraft:vindicator": "2025-01-30 01:59:36 +0000",
       "minecraft:magma_cube": "2025-01-27 02:29:15 +0000",
       "minecraft:piglin_brute": "2025-01-27 02:22:14 +0000",
       "minecraft:spider": "2025-01-27 04:15:49 +0000",
       "minecraft:creeper": "2025-01-27 19:16:57 +0000",
       "minecraft:zombified_piglin": "2025-01-27 20:00:19 +0000",
       "minecraft:witch": "2025-01-29 18:19:05 +0000",
+      "minecraft:husk": "2025-01-30 01:59:15 +0000",
       "minecraft:cave_spider": "2025-01-27 04:48:18 +0000",
       "minecraft:piglin": "2025-01-27 01:29:56 +0000",
       "minecraft:enderman": "2025-01-27 01:03:10 +0000",
@@ -1459,6 +1465,7 @@
       "minecraft:lukewarm_ocean": "2025-01-28 01:28:08 +0000",
       "minecraft:dripstone_caves": "2025-01-27 00:12:24 +0000",
       "minecraft:forest": "2025-01-27 04:00:52 +0000",
+      "minecraft:desert": "2025-01-30 01:56:45 +0000",
       "minecraft:jungle": "2025-01-27 18:04:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-27 19:46:30 +0000",
       "minecraft:savanna": "2025-01-27 03:18:08 +0000",
@@ -2930,6 +2937,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-27 00:26:39 +0000",
+      "entered_hay_storage": "2025-01-30 01:54:23 +0000",
       "entered_miners_house": "2025-01-27 17:55:47 +0000",
       "entered_druid_circle": "2025-01-27 19:43:51 +0000",
       "entered_ruined_building": "2025-01-27 03:58:08 +0000"
@@ -10265,9 +10273,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 01:58:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-30 01:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 01:58:44 +0000"
     },
     "done": true
   },
@@ -10331,9 +10351,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 01:58:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-01-30 01:46:14 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/windswept_sandstone": {
+    "criteria": {
+      "has_windswept_sand": "2025-01-30 02:01:47 +0000"
     },
     "done": true
   },
@@ -10400,6 +10432,12 @@
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-01-30 01:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-30 01:58:44 +0000"
     },
     "done": true
   },

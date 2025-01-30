@@ -2670,6 +2670,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-27 01:17:46 +0000",
       "entered_fishing_ship": "2025-01-28 00:38:06 +0000",
+      "entered_large_dungeon": "2025-01-30 02:00:50 +0000",
       "entered_ruined_building": "2025-01-27 00:10:58 +0000"
     },
     "done": false
@@ -10012,6 +10013,12 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-01-30 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-01-30 02:00:50 +0000"
     },
     "done": true
   },

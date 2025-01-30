@@ -1642,6 +1642,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-01-30 01:56:42 +0000",
       "minecraft:wooded_badlands": "2025-01-28 02:50:36 +0000",
       "minecraft:badlands": "2025-01-28 03:06:38 +0000",
       "minecraft:beach": "2025-01-27 16:27:02 +0000",
@@ -2285,6 +2286,7 @@
       "zebra": "2025-01-27 16:05:20 +0000",
       "chameleon": "2025-01-28 21:00:36 +0000",
       "orangutan": "2025-01-28 15:54:31 +0000",
+      "owl": "2025-01-30 01:56:03 +0000",
       "giraffe": "2025-01-27 16:09:51 +0000",
       "red_panda": "2025-01-28 15:54:34 +0000"
     },

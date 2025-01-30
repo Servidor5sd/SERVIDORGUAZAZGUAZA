@@ -4910,6 +4910,7 @@
     "criteria": {
       "zebra": "2025-01-27 13:04:49 +0000",
       "orangutan": "2025-01-27 23:23:27 +0000",
+      "owl": "2025-01-30 01:57:16 +0000",
       "marmot": "2025-01-28 20:29:07 +0000"
     },
     "done": false
@@ -7480,27 +7481,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/food/blooming_oddion": {
-    "criteria": {
-      "has_cooked_oddion_bulb": "2025-01-30 01:48:01 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/food/cooked_oddion_bulb_from_smelting": {
     "criteria": {
       "has_oddion_bulb": "2025-01-30 01:47:59 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/food/allium_oddion_soup": {
-    "criteria": {
-      "has_cooked_oddion_bulb": "2025-01-30 01:48:01 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:boomerang": {
-    "criteria": {
-      "has_boomerang": "2025-01-30 01:50:22 +0000"
     },
     "done": true
   },
@@ -7516,9 +7499,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/food/blooming_oddion": {
+    "criteria": {
+      "has_cooked_oddion_bulb": "2025-01-30 01:48:01 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/food/allium_oddion_soup": {
+    "criteria": {
+      "has_cooked_oddion_bulb": "2025-01-30 01:48:01 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/white_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_white_dye]": "2025-01-30 01:48:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-01-30 01:50:22 +0000"
     },
     "done": true
   },
