@@ -75,6 +75,7 @@
     "criteria": {
       "biomeswevegone:redwood_thicket": "2025-01-27 15:51:47 +0000",
       "biomeswevegone:atacama_outback": "2025-01-28 02:50:17 +0000",
+      "biomeswevegone:araucaria_savanna": "2025-01-30 01:23:01 +0000",
       "biomeswevegone:crag_gardens": "2025-01-27 16:28:23 +0000",
       "biomeswevegone:mojave_desert": "2025-01-28 15:43:24 +0000",
       "biomeswevegone:rugged_badlands": "2025-01-28 03:08:39 +0000",
@@ -2040,6 +2041,7 @@
       "cooked_mutton": "2025-01-27 16:01:43 +0000",
       "cooked_beef": "2025-01-28 20:35:16 +0000",
       "beef": "2025-01-28 15:51:04 +0000",
+      "porkchop": "2025-01-30 01:22:59 +0000",
       "carrot": "2025-01-27 16:24:30 +0000"
     },
     "done": false
@@ -7550,15 +7552,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_door": {
-    "criteria": {
-      "has_planks": "2025-01-30 01:18:17 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_planks": {
     "criteria": {
       "has_log": "2025-01-30 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_door": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
     },
     "done": true
   },
@@ -7592,12 +7594,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
-    "criteria": {
-      "has_lily_pad": "2025-01-30 01:18:45 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/redstone/rainbow_eucalyptus_button": {
     "criteria": {
       "has_planks": "2025-01-30 01:18:17 +0000"
@@ -7625,6 +7621,174 @@
   "biomeswevegone:recipes/redstone/rainbow_eucalyptus_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-01-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/tomato_bag": {
+    "criteria": {
+      "has_tomato": "2025-01-30 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn": {
+    "criteria": {
+      "has_kernels": "2025-01-30 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-01-30 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "farm_and_charm:corn": "2025-01-30 01:23:40 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/eat_tomato": {
+    "criteria": {
+      "tomato": "2025-01-30 01:24:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-30 01:36:00 +0000"
     },
     "done": true
   },

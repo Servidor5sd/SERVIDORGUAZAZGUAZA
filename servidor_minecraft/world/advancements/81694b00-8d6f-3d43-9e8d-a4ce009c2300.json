@@ -9378,12 +9378,6 @@
     },
     "done": true
   },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2025-01-30 01:18:56 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_katana": {
     "criteria": {
       "has_diamond": "2025-01-28 20:32:10 +0000"
@@ -9967,18 +9961,6 @@
     },
     "done": true
   },
-  "1_splatus:ultris/ender": {
-    "criteria": {
-      "c1": "2025-01-30 01:16:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-30 01:10:45 +0000"
-    },
-    "done": true
-  },
   "brewery:recipes/barrel_main": {
     "criteria": {
       "has_barrel": "2025-01-30 01:05:15 +0000"
@@ -9988,6 +9970,24 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-01-30 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-30 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-30 01:10:45 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2025-01-30 01:16:35 +0000"
     },
     "done": true
   },
@@ -10003,9 +10003,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "has_item": "2025-01-30 01:05:15 +0000"
+      "requirement": "2025-01-30 01:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-30 01:47:41 +0000"
     },
     "done": true
   },
