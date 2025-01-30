@@ -644,3 +644,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 14:30:23.665] [Server thread/INFO] [tombstone/]: The player AOSBIK has successfully been saved
 [30Jan2025 14:42:09.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AOSBIK lost connection: Disconnected
 [30Jan2025 14:42:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK left the game
+[30Jan2025 14:48:13.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mtaep[/127.182.128.67:34955] logged in with entity id 32039 at (2987.045926796755, 60.0, -966.2903639982972)
+[30Jan2025 14:48:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep joined the game
+[30Jan2025 14:48:13.813] [Server thread/INFO] [Jade/]: Syncing config to Mtaep (c42aba1a-dbbb-3485-bd79-6cc60ec3d64e)
+[30Jan2025 14:51:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Cover Me with Diamonds]
+[30Jan2025 14:53:02.892] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2962, y=-37, z=-1186}
+[30Jan2025 14:53:02.893] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2962, y=-37, z=-1187}
