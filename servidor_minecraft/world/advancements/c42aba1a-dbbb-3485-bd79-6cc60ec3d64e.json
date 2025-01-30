@@ -8813,6 +8813,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-01-30 19:23:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_tomahawk": {
     "criteria": {
       "has_cobblestone": "2025-01-30 18:49:51 +0000"
