@@ -761,3 +761,47 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 01:14:33.069] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-109, y=38, z=494}
 [30Jan2025 01:14:33.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6161ms or 123 ticks behind
 [30Jan2025 01:14:40.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> zzzz
+[30Jan2025 01:15:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel was caught by Necromancer's fangs
+[30Jan2025 01:15:41.482] [Server thread/INFO] [tombstone/]: The player lucasdepapel has successfully been saved
+[30Jan2025 01:15:44.749] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-405, y=17, z=217}
+[30Jan2025 01:16:29.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:50269] logged in with entity id 78667 at (2725.6211395133673, 116.9375, -771.5937862410489)
+[30Jan2025 01:16:29.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 01:16:29.940] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 01:16:35.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Corrupted]
+[30Jan2025 01:16:36.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> auxilio
+[30Jan2025 01:17:00.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[30Jan2025 01:17:00.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[30Jan2025 01:17:45.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK has made the advancement [Weakened]
+[30Jan2025 01:17:46.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK was killed by Corrupted Enderman using magic
+[30Jan2025 01:17:47.297] [Server thread/INFO] [tombstone/]: The player AOSBIK has successfully been saved
+[30Jan2025 01:19:09.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:34797] logged in with entity id 82606 at (2725.6211395133673, 116.9375, -771.5937862410489)
+[30Jan2025 01:19:09.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 01:19:09.132] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 01:19:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> auxilio
+[30Jan2025 01:19:20.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=193, y=-51, z=338}
+[30Jan2025 01:19:20.978] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=193, y=-51, z=339}
+[30Jan2025 01:19:22.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> [name:"horno", x:-2392, y:-25, z:586, dim:minecraft:overworld]
+[30Jan2025 01:19:27.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> tpame aca porfa
+[30Jan2025 01:19:39.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DrPingaFloja lost connection: Timed out
+[30Jan2025 01:19:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja left the game
+[30Jan2025 01:20:29.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> -1000 1530
+[30Jan2025 01:22:14.523] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-128, y=-12, z=560}
+[30Jan2025 01:23:37.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:39423] logged in with entity id 88013 at (2725.6211395133673, 116.9375, -771.5937862410489)
+[30Jan2025 01:23:37.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 01:23:37.971] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 01:24:00.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel has reached the goal [Taste the Red]
+[30Jan2025 01:24:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> lucas
+[30Jan2025 01:24:17.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucasdepapel> dime
+[30Jan2025 01:24:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> me
+[30Jan2025 01:24:23.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Teleported DrPingaFloja to lucasdepapel]
+[30Jan2025 01:24:30.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:00.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:08.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:13.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:21.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:31.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:40.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zitroo[/127.81.187.143:33923] logged in with entity id 90241 at (-2268.503511278211, -1.0, 856.395555557533)
+[30Jan2025 01:25:40.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zitroo joined the game
+[30Jan2025 01:25:40.567] [Server thread/INFO] [Jade/]: Syncing config to Zitroo (140917c5-1b47-31ef-bc0f-8b22892b6012)
+[30Jan2025 01:25:42.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 01:25:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]

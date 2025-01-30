@@ -9380,7 +9380,7 @@
   },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "requirement": "2025-01-28 20:15:17 +0000"
+      "requirement": "2025-01-30 01:18:56 +0000"
     },
     "done": true
   },
@@ -9967,6 +9967,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2025-01-30 01:16:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-30 01:10:45 +0000"
@@ -9982,6 +9988,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-01-30 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "corrupted_enderman": "2025-01-30 01:17:45 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:ultris/enderkill": {
+    "criteria": {
+      "c1": "2025-01-30 01:17:45 +0000"
     },
     "done": true
   },

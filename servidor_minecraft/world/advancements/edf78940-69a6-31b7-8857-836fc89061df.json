@@ -1644,6 +1644,7 @@
       "minecraft:wooded_badlands": "2025-01-28 02:50:36 +0000",
       "minecraft:badlands": "2025-01-28 03:06:38 +0000",
       "minecraft:beach": "2025-01-27 16:27:02 +0000",
+      "minecraft:stony_peaks": "2025-01-30 01:15:34 +0000",
       "minecraft:sparse_jungle": "2025-01-27 16:28:14 +0000",
       "minecraft:river": "2025-01-27 15:58:13 +0000",
       "minecraft:lukewarm_ocean": "2025-01-28 02:53:50 +0000",
@@ -7540,6 +7541,90 @@
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-01-29 23:51:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_door": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_planks": {
+    "criteria": {
+      "has_log": "2025-01-30 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_bookshelf": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rainbow_eucalyptus_crafting_table": {
+    "criteria": {
+      "has_rainbow_eucalyptus_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-01-30 01:18:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_button": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rainbow_eucalyptus_sign": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rainbow_eucalyptus_slab": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/rainbow_eucalyptus_fence": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/rainbow_eucalyptus_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-30 01:18:17 +0000"
     },
     "done": true
   },
