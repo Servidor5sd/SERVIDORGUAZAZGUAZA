@@ -7459,5 +7459,89 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-29 23:44:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-01-29 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-29 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-01-29 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-01-29 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-01-29 23:48:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-29 23:48:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-01-29 23:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-29 23:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-29 23:48:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-29 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-29 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-29 23:50:30 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-01-29 23:51:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
