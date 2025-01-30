@@ -6930,39 +6930,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/cestus": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_wool": "2025-01-29 16:39:22 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
+      "coded_trigger": "2025-01-29 16:28:30 +0000"
     },
     "done": true
   },
@@ -6975,12 +6945,6 @@
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
     },
     "done": true
   },
@@ -7002,27 +6966,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/onion_bag": {
-    "criteria": {
-      "has_onion": "2025-01-29 16:40:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-01-29 16:28:30 +0000"
     },
     "done": true
   },
@@ -7032,33 +6978,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/transportation/cika_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "moretool:get_soulof_sword": {
-    "criteria": {
-      "get_soulof_sword_0": "2025-01-29 16:39:06 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/florus_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
     },
     "done": true
   },
@@ -7074,33 +6996,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-01-29 16:45:46 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_battle_hammer": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
     },
     "done": true
   },
@@ -7110,27 +7008,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
     },
     "done": true
   },
@@ -7140,63 +7020,15 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
     },
     "done": true
   },
@@ -7236,27 +7068,207 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-01-29 16:34:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
     "criteria": {
-      "has_boat": "2025-01-29 16:46:26 +0000"
+      "has_wood": "2025-01-29 16:34:48 +0000"
+    },
+    "done": true
+  },
+  "moretool:get_soulof_sword": {
+    "criteria": {
+      "get_soulof_sword_0": "2025-01-29 16:39:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-01-29 16:39:22 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2025-01-29 16:40:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-29 16:45:46 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-01-29 16:45:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-29 16:45:46 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-29 16:46:26 +0000"
     },
     "done": true
   },
@@ -7278,12 +7290,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-01-29 16:45:46 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-29 16:46:26 +0000"
@@ -7293,12 +7299,6 @@
   "biomeswevegone:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-29 16:46:26 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_heavy_crossbow": {
-    "criteria": {
-      "has_wood": "2025-01-29 16:34:48 +0000"
     },
     "done": true
   },

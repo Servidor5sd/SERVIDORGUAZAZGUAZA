@@ -668,3 +668,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 00:44:15.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucasdepapel lost connection: Timed out
 [30Jan2025 00:44:15.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucasdepapel left the game
 [30Jan2025 00:44:15.116] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Jan2025 00:47:44.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DrPingaFloja[/127.94.204.212:52167] logged in with entity id 29447 at (-897.6589316476993, 154.0, 1501.3659706581386)
+[30Jan2025 00:47:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja joined the game
+[30Jan2025 00:47:44.283] [Server thread/INFO] [Jade/]: Syncing config to DrPingaFloja (f45bc295-6c7a-3aa9-95fe-73944750202f)
+[30Jan2025 00:47:57.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> elias reponeme un huevo de dragon *carita triste*
+[30Jan2025 00:48:30.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> te voy a re poner el huevo
+[30Jan2025 00:48:52.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Set own game mode to Creative Mode]
+[30Jan2025 00:49:25.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> cual era
+[30Jan2025 00:49:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> fire dragon verde
+[30Jan2025 00:49:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> elias
+[30Jan2025 00:50:00.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> veni a la aldea de antes
+[30Jan2025 00:50:04.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> para tradear
+[30Jan2025 00:50:05.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> bueno
+[30Jan2025 00:50:07.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> hhehejejejjeej
+[30Jan2025 00:50:19.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> juan donde te meto el huevo?
+[30Jan2025 00:50:27.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> damelo cuando puedas
+[30Jan2025 00:50:32.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ahora puedo
+[30Jan2025 00:50:44.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> y dame
+[30Jan2025 00:51:46.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Applied effect Invisibility to DrPingaFloja]
+[30Jan2025 00:51:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Teleported DrPingaFloja to AOSBIK]
+[30Jan2025 00:52:20.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 00:52:28.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> zzz
+[30Jan2025 00:52:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> duelma
+[30Jan2025 00:52:34.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> veni en casa y dame elias
+[30Jan2025 00:52:40.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Teleported DrPingaFloja to AOSBIK]
+[30Jan2025 00:52:48.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 00:53:12.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Applied effect Invisibility to DrPingaFloja]
+[30Jan2025 00:53:22.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Applied effect Invisibility to DrPingaFloja]
+[30Jan2025 00:53:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> dejame
+[30Jan2025 00:53:52.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> dejadme
+[30Jan2025 00:54:04.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AOSBIK> buddy im gonna clap your cheeks
+[30Jan2025 00:54:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> aldeinha
+[30Jan2025 00:54:20.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ola
+[30Jan2025 00:54:28.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DrPingaFloja: Summoned new Lightning Bolt]
+[30Jan2025 00:54:28.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mtaep has made the advancement [Surge Protector]
+[30Jan2025 00:54:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DrPingaFloja has made the advancement [Surge Protector]
+[30Jan2025 00:54:43.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> ola
+[30Jan2025 00:54:45.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DrPingaFloja> ola
+[30Jan2025 00:54:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> dame el ceuro
+[30Jan2025 00:55:03.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mtaep> garcia
