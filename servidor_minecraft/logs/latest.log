@@ -642,3 +642,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [30Jan2025 14:21:01.333] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/1429, l='ServerLevel[world]', x=-1039.88, y=62.56, z=1457.19]
 [30Jan2025 14:30:23.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK was burnt to a crisp whilst fighting Zombie
 [30Jan2025 14:30:23.665] [Server thread/INFO] [tombstone/]: The player AOSBIK has successfully been saved
+[30Jan2025 14:42:09.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AOSBIK lost connection: Disconnected
+[30Jan2025 14:42:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AOSBIK left the game
