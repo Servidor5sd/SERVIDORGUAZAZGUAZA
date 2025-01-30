@@ -1294,6 +1294,7 @@
       "minecraft:dripstone_caves": "2025-01-27 00:06:42 +0000",
       "minecraft:forest": "2025-01-27 01:57:51 +0000",
       "minecraft:desert": "2025-01-27 23:21:24 +0000",
+      "minecraft:jungle": "2025-01-30 17:31:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-27 01:32:31 +0000",
       "minecraft:savanna": "2025-01-27 23:13:28 +0000",
       "minecraft:plains": "2025-01-27 00:36:25 +0000"
@@ -9237,6 +9238,18 @@
       "skeleton_skull": "2025-01-29 22:52:15 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-01-30 17:36:12 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_overgrown_colossus": {
+    "criteria": {
+      "colossus": "2025-01-30 17:38:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
